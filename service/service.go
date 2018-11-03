@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/HeChX/agenda/entity"
+	"agenda/entity"
 )
 
 var currentname string
