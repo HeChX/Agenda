@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/HeChX/agenda/service"
+	"agenda/service"
 	"github.com/spf13/cobra"
 )
 
